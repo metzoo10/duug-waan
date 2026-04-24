@@ -1,9 +1,20 @@
-# 🍲 duug waañ | générateur de recettes sénégalaises
+<h1 align="center">🍲 duug waañ | générateur de recettes sénégalaises</h1>
+
+<h4 align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS 3">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript">
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JSON">
+</h4>
+
 
 **Duug Waañ** ("Entrer dans la cuisine" en wolof) est un générateur de recettes sénégalaises interactif. Ce projet a été conçu pour célébrer le patrimoine culinaire du Sénégal tout en offrant une expérience utilisateur moderne, fluide et accessible (light/dark mode).
 
+
 ![Interface Duug Waan](assets/images/1.png)
 ![Interface Duug Waan](assets/images/2.png)
+
 
 ## 🚀 Fonctionnalités
 
