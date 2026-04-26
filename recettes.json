@@ -2,7 +2,7 @@
     "recettes": [
         {
         "nom": "Thieboudiene",
-        "image": "assets/images/thieboudienne.jpeg",
+        "image": "assets/images/thieboudienne.webp",
         "lien": "https://youtu.be/BzmEjhspu3s",
         "ingredients": [
           "Poisson (de préférence poisson maquereau, lotte ou dorade)",
@@ -32,7 +32,7 @@
       },
       {
         "nom": "Yassa poulet",
-        "image": "assets/images/yassa.jpg",
+        "image": "assets/images/yassa.webp",
         "lien": "https://youtu.be/zYwCW3Amgvs",
         "ingredients": [
           "1 poulet coupé en morceaux",
@@ -66,7 +66,7 @@
       },
       {
         "nom": "Soupe kandia",
-        "image": "assets/images/kandia.jpeg",
+        "image": "assets/images/kandia.webp",
         "lien": "https://youtu.be/EQ6fDlWiDwQ",
         "ingredients": [
           "500g de gombos frais ou surgelés",
@@ -100,7 +100,7 @@
       },
       {
         "nom": "Jus Bissap",
-        "image": "assets/images/bissap.jpg",
+        "image": "assets/images/bissap.webp",
         "lien": "https://youtu.be/KJZpkgUPS9E",
         "ingredients": [
           "2 tasses de fleurs d'hibiscus séchés (bissap)",
@@ -121,7 +121,7 @@
       },
       {
         "nom": "Thiakry",
-        "image": "assets/images/thiakry.jpg",
+        "image": "assets/images/thiakry.webp",
         "lien": "https://youtu.be/HIbOIa5Sg7s",
         "ingredients": [
           "1 tasse de mil",
@@ -144,7 +144,7 @@
       },
       {
         "nom": "Ngalakh",
-        "image": "assets/images/ngalakh.jpg",
+        "image": "assets/images/ngalakh.webp",
         "lien": "https://youtu.be/ukyaLJKYK44",
         "ingredients": [
           "1 tasse de mil",
@@ -167,7 +167,7 @@
       },
       {
         "nom": "Beignets Dougoup",
-        "image": "assets/images/beignets-dgp.jpg",
+        "image": "assets/images/beignets-dgp.webp",
         "lien": "https://youtu.be/klDfMv-cINM",
         "ingredients": [
           "2 tasses de mil",
@@ -191,7 +191,7 @@
       },
       {
         "nom": "Fatayas",
-        "image": "assets/images/fataya.jpg",
+        "image": "assets/images/fataya.webp",
         "lien": "https://youtu.be/rGEAQnLWIX4",
         "ingredients": [
           "500g de farine",
@@ -224,7 +224,7 @@
       },
       {
         "nom": "Accaras",
-        "image": "assets/images/accaras.jpg",
+        "image": "assets/images/accaras.webp",
         "lien": "https://youtu.be/tLpkQxQk9_0",
         "ingredients": [
           "2 tasses d'haricots niébé (trempés toute une nuit)",

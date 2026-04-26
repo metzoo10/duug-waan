@@ -112,9 +112,10 @@ body {
     background-color: var(--rouge);
 }
 .img-placeholder {
+    aspect-ratio: 598 / 554;
     width: 100%;
-    height: 400px;
-    background-color: #fff;
+    height: auto;
+    background-color: #f0f0f0;
     border: 1px solid #ddd;
     display: flex;
     align-items: center;
